@@ -1,2 +1,3 @@
 0 string SCHOOL Description
 !:mime text
+file -C -m school.mgc
