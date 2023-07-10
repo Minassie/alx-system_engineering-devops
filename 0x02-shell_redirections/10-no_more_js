@@ -1,2 +1,2 @@
 #!/bin/bash
-cat *.js ./*/js | rm
+echo *.js ./*/js | rm
